@@ -9,7 +9,7 @@ Desenvolvi o projeto no curso de desenvolvedor web - HTML, CSSS e JS, realizado 
 
 # Layout Web
 
-<img align="center" src="https://imgur.com/a/842rhBr" width="400px" />
+<img src="https://imgur.com/a/842rhBr" width="400px" />
 
 
 ## Tecnologias utilizadas:
