@@ -17,3 +17,9 @@ Desenvolvi o projeto no curso de desenvolvedor web - HTML, CSSS e JS, realizado 
 
 
 -CSS
+
+# Autor
+
+Wallace de Matos Pereira
+
+https://www.linkedin.com/in/wallacedematos/
