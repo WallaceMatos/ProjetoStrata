@@ -2,6 +2,7 @@
 # ProjetoStrata
 ![GitHub repo size](https://img.shields.io/github/repo-size/WallaceMatos/ProjetoStrata)
 ![GitHub followers](https://img.shields.io/github/followers/WallaceMatos?style=social)
+![GitHub](https://img.shields.io/github/license/WallaceMatos/ProjetoStrata)
 
 
 # Sobre o projeto
